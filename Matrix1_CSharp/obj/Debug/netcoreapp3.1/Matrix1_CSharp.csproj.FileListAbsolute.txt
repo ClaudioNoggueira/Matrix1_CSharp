@@ -1,0 +1,13 @@
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.exe
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.deps.json
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.runtimeconfig.json
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.runtimeconfig.dev.json
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.dll
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\bin\Debug\netcoreapp3.1\Matrix1_CSharp.pdb
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.csprojAssemblyReference.cache
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.AssemblyInfoInputs.cache
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.AssemblyInfo.cs
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.csproj.CoreCompileInputs.cache
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.dll
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.pdb
+D:\Estagio\ws-vs2019\Projetos\Section 6 - Comportamento de memória, arrays, listas\Projetos\Matrix1_CSharp\Matrix1_CSharp\obj\Debug\netcoreapp3.1\Matrix1_CSharp.genruntimeconfig.cache
